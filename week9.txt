@@ -3,3 +3,5 @@
 3. Simulate the 1st case
 4. Read the report
 5. Post-process
+6. Meeting
+7. Write report
